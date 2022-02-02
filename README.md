@@ -36,8 +36,9 @@ You can click the Preview link to take a look at your changes.
 Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `Typescript`, `ReactJS`, `NextJS`, `React Native` \
 <br/>
 
+<!--- 
 ## Skills
-[//]: # <p align="center">
+<p align="center">
 [//]: # <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -72,3 +73,5 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `Typescript`, `ReactJS`, 
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
     
 </p>
+
+ ---> 
