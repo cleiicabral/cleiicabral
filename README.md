@@ -20,10 +20,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-**BackEnd Developer** \
-[**Iboss**](https://ibosstecnologias.com/) • `Full-time` \
-Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `Typescript`, `ReactJS`, `NextJS`, `React Native` \
-<br/>
 
 <!--- 
  ---> 
