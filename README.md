@@ -20,15 +20,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/cleiicabral">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=cleiicabral&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</p>
-
 
 ## Work
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE8LbMmrzjiPQ/company-logo_200_200/0/1605186217014?e=2159024400&v=beta&t=4eWosP3QwtJA9mBUGHYeNkjpZdZ73JWKgz2HriZ53iE"/>](https://ibosstecnologias.com/)
