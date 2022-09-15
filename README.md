@@ -16,8 +16,6 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-cleiicabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleyton-s-c-soares-235044122/)](https://www.linkedin.com/in/cleyton-s-c-soares-235044122/) 
 [![Gmail Badge](https://img.shields.io/badge/-cleiicabral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleiicabral@gmail.com)](mailto:cleiicabral@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleiicabral&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cleiicabral&theme=radical&hide=html,css,blade,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
